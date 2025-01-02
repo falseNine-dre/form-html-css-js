@@ -26,11 +26,11 @@ body {
 
 form input[type="email"],
 form input[type="password"] {
-    width: 300px; /* Lebar penuh */
-    padding: 10px; /* Padding dalam input */
-    margin-top: 5px; /* Jarak antara label dan input */
-    border: 1px solid #ccc; /* Warna border */
-    border-radius: 5px; /* Membulatkan tepi */
-    box-sizing: border-box; /* Termasuk padding dalam lebar total */
-    font-size: 14px; /* Ukuran teks */
+    width: 300px;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc; 
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
 }
